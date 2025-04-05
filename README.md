@@ -16,7 +16,8 @@ This is an **LLM-powered application** that leverages **Google’s Gemini AI (ge
 - ⚡ Fast and lightweight Streamlit web interface  
 
 ---
-
+2. Install dependencies
+pip install -r requirements.txt
 
 
 
