@@ -64,6 +64,11 @@ https://www.youtube.com/watch?v=dQw4w9WgXcQ
 - 🔗 **[YouTube Transcript API](https://pypi.org/project/youtube-transcript-api/)**
 - 🔗 **[python-dotenv](https://pypi.org/project/python-dotenv/)**
 
+  ## 🚀 Live Demo
+
+Try out the live app 👉 [Launch on Streamlit](https://your-username-your-repo-name.streamlit.app)
+
+
 
 ### ⭐ Support
 If you found this project useful, please consider giving it a ⭐ on GitHub.
