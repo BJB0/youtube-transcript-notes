@@ -22,40 +22,47 @@ This is an **LLM-powered application** that leverages **Google’s Gemini AI (ge
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
+```bash  
 git clone https://github.com/your-username/youtube-transcript-to-notes.git
 cd youtube-transcript-to-notes
+```
 
 ### 2. Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
 ### 3. Set your API Key
+```ini
 Create a .env file in the root directory and add your Google Generative AI API Key:
 GOOGLE_API_KEY=your_api_key_here
+```
 
 ### 4. Run the app
+```bash
 streamlit run app.py
-
+```
 
 ### 🧪 Example Use Case
 Paste a link like:
+```arduino
 https://www.youtube.com/watch?v=dQw4w9WgXcQ
-
+```
 
 ### Output:
+```diff
 - Discusses the power of commitment and follow-through  
 - Highlights how passion drives creativity and momentum  
-- Recommends daily habit tracking and time-blocking  
+- Recommends daily habit tracking and time-blocking
 ...
+```
 
 ### 🧰 Built With
 
-Streamlit
-
-Google Generative AI (Gemini)
-
-YouTube Transcript API
-
-Python-dotenv
+- 🔗 **[Streamlit](https://streamlit.io/)**
+- 🔗 **[Google Generative AI (Gemini)](https://ai.google.dev/gemini-api/docs/overview)**
+- 🔗 **[YouTube Transcript API](https://pypi.org/project/youtube-transcript-api/)**
+- 🔗 **[python-dotenv](https://pypi.org/project/python-dotenv/)**
 
 
 ### ⭐ Support
