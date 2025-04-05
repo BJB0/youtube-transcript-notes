@@ -60,7 +60,7 @@ https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ### 🧰 Built With
 
 - 🔗 **[Streamlit](https://streamlit.io/)**
-- 🔗 **[Google Generative AI (Gemini)](https://ai.google.dev/gemini-api/docs/overview)**
+- 🔗 **[Google Generative AI (Gemini)](https://ai.google.dev/docs)**
 - 🔗 **[YouTube Transcript API](https://pypi.org/project/youtube-transcript-api/)**
 - 🔗 **[python-dotenv](https://pypi.org/project/python-dotenv/)**
 
